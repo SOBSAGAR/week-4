@@ -98,7 +98,7 @@ html{
     
 }
 .home-image img{
-    width: 200%;
+    width: 100%;
     position: absolute;
     transform: translate(0%, -40%);
     animation: mymove 5s infinite ease-in-out;
